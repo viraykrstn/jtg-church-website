@@ -16,8 +16,10 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
+        "APP_KEY": "base64:sMhlYOjeGGtDQJDDgLQgbtCtITYkD770cmo0POxm0i8=",
         "LOG_CHANNEL": "stderr",
         "VIEW_COMPILED_PATH": "/tmp",
         "SESSION_DRIVER": "cookie"
+        "LOG_CHANNEL": "stderr"
     }
 }
